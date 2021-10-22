@@ -1,0 +1,160 @@
+.hu{
+font-family:cursive;
+border: 2px solid #C71585;
+width:450px;
+height:58px;
+list-style-type:none;
+position:relative;
+display:inline-block;
+background-color:lightpink ;	
+border-radius:20px;
+}
+
+a{
+color:black;
+font-size:16px;
+text-decoration:none;
+font-family:cursive;    
+}
+body{
+background-color:#FFEFD5;
+}
+
+
+li:hover{
+background-color:pink;
+}
+img{
+width:270px;
+height:270px;
+border: 4px solid black; 
+
+}
+hr{
+width:1350px;
+height:8px;
+background-color:lightcoral;
+}
+p{
+font-family:cursive;
+}
+li{
+border: 2px solid #C71585; 
+width:130px;
+height:40px;
+list-style-type:none;
+position:relative;
+display:inline-block;
+background-color:mistyrose;	
+border-radius:10px;
+}
+.catalog{	
+display:none;
+list-style-type:none;
+position:absolute;
+left:-41px;	
+top:40px;
+}
+.show:hover .catalog{
+display:block;
+list-style-type:none;
+}
+form{
+width:300px;
+height:222px;
+}
+h1{
+font-family:cursive;
+}
+button{
+font-family:cursive;
+border-radius:20px;
+background-color:pink;
+border: 2px solid black; 
+}
+fieldset{
+background-color:lavenderblush;
+}
+.cina{
+	color:red;
+	position:absolute;
+	left:180px;
+}
+.kupyty{
+	position:absolute;
+	left:100px;
+}
+.kupyty1{
+	position:absolute;
+	left:440px;
+}
+.block{
+	display:inline-block;
+	margin:20px;
+}
+.cina1{
+	color:red;
+	position:absolute;
+	left:500px;
+}
+.kupyty2{
+	position:absolute;
+	left:770px;
+}
+.cina2{
+	color:red;
+	position:absolute;
+	left:820px;
+}
+.kupyty3{
+	position:absolute;
+	left:1100px;
+}
+.cina3{
+	color:red;
+	position:absolute;
+	left:1140px;
+}
+.fago{
+	font-size:90px;
+	
+}
+.co{
+	position:absolute;
+	left:540px;
+	top:900px;
+}
+
+.decor{
+text-decoration:none;
+}
+.jojo{
+font-family:cursive;
+font-size:20px;
+}
+.go{
+	width:100px;
+	height:150px;
+}
+.jol{
+width:1335px;
+height:35px;
+position:absolute;
+top:680px;
+background-color:#ffb3d9;
+font-family:cursize;
+}
+.got{
+position:absolute;
+top:667px;
+left:420px;
+}
+.toy{
+background-color:white;
+}
+
+@media screen and (max-width: 400px){
+	body{
+background-color:#CCF6D6;
+}
+}
